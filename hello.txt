@@ -1,0 +1,4 @@
+Hello from the ACES GitHub/Hugging Face startup test.
+This file is maintained automatically.
+
+2026-08-30 | Day 1: You wake beside a silent terminal, and a green cursor points toward a door marked BEGIN.
