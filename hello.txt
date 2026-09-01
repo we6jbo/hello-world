@@ -3,3 +3,4 @@ This file is maintained automatically.
 
 2026-08-30 | Day 1: You wake beside a silent terminal, and a green cursor points toward a door marked BEGIN.
 2026-08-31 | Day 2: Beyond the door, a brass key waits beneath a sign that says every good adventure needs a repository.
+2026-09-01 | Day 3: You cross a bridge of blinking packets while a distant server promises treasure to anyone who verifies the checksum.
